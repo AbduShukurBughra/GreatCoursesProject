@@ -1,0 +1,8 @@
+{
+          "HomePageLocators": {
+                    "BrowseButtonVisibelLocator": ".Header-Menu",
+                    "BrowseButtonLocator": "button[aria-label='Go to menu and search']",
+                    "MathematicsCategoryLocator": ":nth-child(7) > .CategoryButton-Link",
+                    "HistoryCategoryLocator": "a.CategoryButton-Link>span.tgcbadge.tgcbadge-pill.tgcbadge-history"
+          }
+}
